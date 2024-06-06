@@ -62,7 +62,7 @@ class _ButtonsView extends StatelessWidget {
               label: const Text('Text Button'),
               icon: const Icon(Icons.account_box_outlined),
             ),
-            CustomButton(),
+            const CustomButton(),
             IconButton(
                 onPressed: () {},
                 icon: const Icon(Icons.app_registration_rounded)),
