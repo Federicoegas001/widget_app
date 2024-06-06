@@ -31,5 +31,11 @@ const List<MenuItem> appMenuItems = [
     subtitle: 'Generales y controladoas',
     link: '/progress',
     icon: Icons.refresh_rounded,
+  ),
+  MenuItem(
+    title: 'SnackBars',
+    subtitle: 'Snackbars y dialogos',
+    link: '/snackbar',
+    icon: Icons.info_outline,
   )
 ];
